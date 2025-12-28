@@ -25,7 +25,7 @@ OBSERVATION TABLE:
 ![WhatsApp Image 2025-12-26 at 23 40 29](https://github.com/user-attachments/assets/9c7a831d-c9a3-4beb-a4b0-9d15beca1ac7)
 
 
-PRECAUTION: -
+PRECAUTION: 
 1. The values on the multimeter should be carefully noted.
 2. The core should be set to a maximum value of 20mm.
 3. To get the good performance from the kit, main room temperature.
